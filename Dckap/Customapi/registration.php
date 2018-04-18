@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Dckap_CCAvenue - Version 1.0.0
+ * Dckap_Customapi - Version 1.0.0
  * Copyright (c) 2017 Dckap.All Right Reserved.
  * Author: Dckap <extensions@Dckap.com>
  * Website: https://www.Dckap.com
